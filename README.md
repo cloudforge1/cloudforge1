@@ -59,7 +59,6 @@ Extending CloudForge's infrastructure expertise into AI inference and GPU kernel
 
 ### Also
 
-🏢 Founder, Acznowy Sp. z o.o. — Real estate development (1.7M → 4M PLN portfolio)
 🌐 [AliExpress Invoice Downloader](https://chromewebstore.google.com/detail/aliexpress-invoice-downlo/kndnehmcbbkjhmpnonfjgpmlidcgngjc) — Chrome extension, 2,000+ users
 ⭐ Booking.com Superhost (9.8/10, 130+ reviews)
 
